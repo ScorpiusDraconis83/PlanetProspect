@@ -4,7 +4,7 @@
 
 Build machines, collect resourses and launch rockets to explore the Solar system! All of that and more from within your own smartphone!
 
-> **Warning**
+> [!WARNING]
 > The game is currently under heavy development, beware of broken features or bugs!
 
 
